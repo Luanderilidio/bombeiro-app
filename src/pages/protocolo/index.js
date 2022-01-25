@@ -10,7 +10,6 @@ import { Link } from "react-router-dom";
 
 
 export default function Protocolo() {
-  const [open, setOpen] = React.useState(true);
 
   const Theme = createTheme({
     palette: {

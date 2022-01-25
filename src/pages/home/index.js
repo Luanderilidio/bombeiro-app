@@ -1,7 +1,6 @@
 // import * as Styles from './styles'
 import PersistentDrawerLeft from "../../components/base";
 import Cards from "../../components/cads";
-import { MdWaterDamage } from "react-icons/md";
 import Logo1 from '../../assets/afogamento.svg'
 import Logo2 from '../../assets/domestico.svg'
 import Logo3 from '../../assets/veiculo.svg'

@@ -1,24 +1,13 @@
 import * as Styles from "./styles";
 import * as React from "react";
-import { Link } from "react-router-dom";
 import Typography from "@mui/material/Typography";
 import { createTheme } from "@mui/material/styles";
-import { Box, Button } from "@mui/material";
+import { Box } from "@mui/material";
 import Logo from "../../assets/bombeiro.svg";
 import Risc from "../../assets/preta.svg";
-import { textAlign } from "@mui/system";
 
 export default function Inicio() {
-  const Theme = createTheme({
-    palette: {
-      primary: {
-        main: "#98040D",
-      },
-      secundary: {
-        main: "#3FBE88",
-      },
-    },
-  });
+  
 
   return (
     <Styles.Container>

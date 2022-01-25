@@ -1,22 +1,12 @@
 import * as Styles from "./styles";
 import * as React from "react";
 import Typography from "@mui/material/Typography";
-import { createTheme } from "@mui/material/styles";
 import { Box } from "@mui/material";
 import Footer from "../../components/footer";
 import Logo from "../../assets/bombeiro.svg";
 
 export default function Contato() {
-  const Theme = createTheme({
-    palette: {
-      primary: {
-        main: "#98040D",
-      },
-      secundary: {
-        main: "#3FBE88",
-      },
-    },
-  });
+ 
 
   return (
     <Styles.Container>
