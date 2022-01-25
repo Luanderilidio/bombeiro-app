@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/bombeiro-app/static/css/main.ff681457.css",
+    "main.js": "/bombeiro-app/static/js/main.52c83435.js",
+    "static/media/bombeiro.svg": "/bombeiro-app/static/media/bombeiro.aafe199eaa0fd1603764b273fbf48f0a.svg",
+    "static/media/risc.svg": "/bombeiro-app/static/media/risc.68401ddebebfc841ee2ab033a67c5a48.svg",
+    "static/media/roboto-all-400-normal.woff": "/bombeiro-app/static/media/roboto-all-400-normal.376ea5d93f71583052f6.woff",
+    "static/media/roboto-latin-400-normal.woff2": "/bombeiro-app/static/media/roboto-latin-400-normal.4673b4537a84c7f7a130.woff2",
+    "static/media/roboto-cyrillic-ext-400-normal.woff2": "/bombeiro-app/static/media/roboto-cyrillic-ext-400-normal.493afe7ae8ecfe268800.woff2",
+    "static/media/preta.svg": "/bombeiro-app/static/media/preta.8b154612c26ba5c1b7780fbbd0201545.svg",
+    "static/media/roboto-latin-ext-400-normal.woff2": "/bombeiro-app/static/media/roboto-latin-ext-400-normal.c3dcdbd5bb4d4af80817.woff2",
+    "static/media/roboto-cyrillic-400-normal.woff2": "/bombeiro-app/static/media/roboto-cyrillic-400-normal.5e493812deabd1d01e60.woff2",
+    "static/media/roboto-greek-400-normal.woff2": "/bombeiro-app/static/media/roboto-greek-400-normal.1cbfc636c911faa4d0ca.woff2",
+    "static/media/roboto-vietnamese-400-normal.woff2": "/bombeiro-app/static/media/roboto-vietnamese-400-normal.c0bec65d01f776c00c91.woff2",
+    "static/media/veiculo.svg": "/bombeiro-app/static/media/veiculo.ec1399d4912af842d42a036d178d10a8.svg",
+    "static/media/outros.svg": "/bombeiro-app/static/media/outros.2904a3655aca5152adfc788b0b759f24.svg",
+    "static/media/incendio.svg": "/bombeiro-app/static/media/incendio.d7e91a6f7dc6637c7cb6a366ba7bda1d.svg",
+    "static/media/roboto-greek-ext-400-normal.woff2": "/bombeiro-app/static/media/roboto-greek-ext-400-normal.bb723e8458c9c653e505.woff2",
+    "static/media/eletrico.svg": "/bombeiro-app/static/media/eletrico.b30c1fdc2ae11520349212d2b2ca2272.svg",
+    "static/media/afogamento.svg": "/bombeiro-app/static/media/afogamento.8c5399bb9c71af87d9cd3c3e1ad167e2.svg",
+    "static/media/domestico.svg": "/bombeiro-app/static/media/domestico.9ccf396ce22741edd5f5a0d40b579b4d.svg",
+    "index.html": "/bombeiro-app/index.html",
+    "main.ff681457.css.map": "/bombeiro-app/static/css/main.ff681457.css.map",
+    "main.52c83435.js.map": "/bombeiro-app/static/js/main.52c83435.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff681457.css",
+    "static/js/main.52c83435.js"
+  ]
+}
