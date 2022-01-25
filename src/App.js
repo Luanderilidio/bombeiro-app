@@ -13,13 +13,7 @@ import Inicio from './pages/inicio';
 
 function App() {
   return (
-  //  <Home/>
-    // <Ocorrencia/>
-    // <Localização/>
-    // <Protocolo/>
-    // <Contato/>
-    // <Sobre/>
-    // <Inicio/>
+
     <BrowserRouter>
         <Routes>
             <Route path="/" element={<Inicio/>} />
