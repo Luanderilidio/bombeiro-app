@@ -1,7 +1,6 @@
 import * as Styles from "./styles";
 import * as React from "react";
 import Typography from "@mui/material/Typography";
-import { createTheme } from "@mui/material/styles";
 import { Box } from "@mui/material";
 import Logo from "../../assets/bombeiro.svg";
 import Risc from "../../assets/preta.svg";
